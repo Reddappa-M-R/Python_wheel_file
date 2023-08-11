@@ -1,0 +1,14 @@
+>>>cmd
+>>>python --version
+>>>pip --version
+>>>pip list
+>>>pip install setuptools
+>>>pip install wheel
+
+create a python file
+create empty _init_ file
+
+create a directory put those .py files in it
+
+create setup.py file below this directory
+>>>python setup.py bdist_wheel
